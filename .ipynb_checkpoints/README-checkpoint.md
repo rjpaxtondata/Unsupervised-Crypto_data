@@ -30,5 +30,3 @@ The PCA revealed 74 principal components (out of a potential 98), which explaine
 Figure: 
 
 Next, we used K-Means to determine whether there could be different clusters.  Based on the elbow plot, there were no distinguishable clusters.  Based on a plot of these data, there was no elbow. See the figure below.
-
-Figure: 
