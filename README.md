@@ -15,11 +15,7 @@ This project aimed to (a) use various unsupervised learning strategies and (b) d
 
 *  Jupyter Lab
 *  Opensource data from [Crypto Compare](https://min-api.cryptocompare.com/data/all/coinlist)
-*  Packages
-**    Pandas
-**    Numbpy
-**    matplotlib
-**    sklearn
+*  Packages: Pandas, Numbpy, matplotlib, sklearn
 
 ## Results
 
