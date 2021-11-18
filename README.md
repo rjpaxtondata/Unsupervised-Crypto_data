@@ -1,4 +1,4 @@
-# Unsupervised Learning with Cryptocurrency Data
+# Using Unsupervised Learning for Cryptocurrency Data
 
 ## Purpose
 
